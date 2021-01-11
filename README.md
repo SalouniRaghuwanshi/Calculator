@@ -8,7 +8,6 @@ This is  built by:-
 1. **javascript**
 1. **CSS**
 
-***
  
  Look Like this:-
 
